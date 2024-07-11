@@ -1,0 +1,19 @@
+.left-menu-container {
+    padding: 20px;
+  }
+  
+  .left-menu-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .left-menu-container li {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .left-menu-container li:hover {
+    background-color: #d0d0d0;
+  }
+  
